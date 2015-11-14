@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <!-- jQuery & jQuery UI -->
+    <script src="http://yastatic.net/jquery/2.1.1/jquery.min.js"></script>
+    <script src="http://yastatic.net/jquery-ui/1.11.1/jquery-ui.min.js" type="text/javascript"
+            charset="utf-8"></script>
+
+    <!-- Bootstrap -->
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+    <style>
+        .as-test{
+            width: 48%;
+            position: relative;
+            float: left;
+            height: 550px;
+            background-color: azure;
+
+        }
+        .bc-test{
+            width: 49%;
+            position: relative;
+            float: left;
+            height: 400px;
+            background-color: beige;
+        }
+    </style>
+</head>
+<body>
+<div class="row">
+<div class="as-test">
+    as
+</div>
+<div class="bc-test">
+    bc
+</div>
+</div>
+
+<div class="row">
+    <div class="col-md-2">
+    </div>
+    <div class="col-md-4">
+    <a href="index.html">home</a>
+        </div>
+</div>
+
+<script>
+    $(document).ready(function(){
+        var posDivFirst = $("div.as-test").offset(),
+                posDivSecond = $("div.bc-test").offset(),
+                leftDivFirst = posDivFirst.left,
+                leftDivSecond = posDivSecond.left,
+                topDivFirst = posDivFirst.top ,
+                topDivSecond = posDivSecond.top,
+                heightDivFirst = $("div.as-test").height(),
+                heightDivSecond = $("div.bc-test").height(),
+                deltaHeight
+                ;
+
+        if(heightDivSecond - heightDivFirst > 0){
+            deltaHeight=heightDivSecond - heightDivFirst;
+            $("div.as-test").offset({top:topDivFirst+deltaHeight, left:leftDivFirst });
+        }else{
+            deltaHeight= heightDivFirst- heightDivSecond ;
+            $("div.bc-test").offset({top:topDivSecond +deltaHeight, left:leftDivSecond });
+        }
+
+
+    });
+</script>
+</body>
+</html>

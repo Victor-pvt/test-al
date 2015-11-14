@@ -1,0 +1,1004 @@
+sudo add-apt-repository ppa:caffeine-developers/ppa
+sudo apt-get update
+sudo apt-get install caffeine
+
+  999  php artisan serve
+ 1000  cd /home/victor/PhpstormProjects/laravel-starter
+ 1001  php artisan serve --port=8009
+ 1002  cd /home/victor/PhpstormProjects/laravel/MicroBlog_Laravel4-master
+ 1003  php artisan serve --port=8009
+ 1004  cd /home/victor/PhpstormProjects/habr
+ 1005  php artisan serve --port=8009
+ 1006  cd /var/www/html/laravel
+ 1007  php artisan serve --port=8009
+ 1008  git status
+ 1009  git init
+ 1010  sudo apt-get update
+ 1011  sudo apt-get install encfs
+ 1012  git status
+ 1013  git add .
+ 1014  git status
+ 1015  git add .
+ 1016  git status
+ 1017  git add .
+ 1018  git status
+ 1019  git add .
+ 1020  yandex-disk start --dir=/home/victor/kram-tvel
+ 1021  cd /home/victor/kram-tvel/tvel
+ 1022  ln -s /home/victor/tvel/Проектные документы/ lnk1 
+ 1023  ln -s "/home/victor/tvel/Проектные документы/" "Проектные документы" 
+ 1024  yandex-disk start --dir=/home/victor/kram-tvel
+ 1025  ln  "/home/victor/tvel/Проектные документы/" "документы" 
+ 1026  git status
+ 1027  git add .
+ 1028  git status
+ 1029  git add .
+ 1030  ssh 185.22.60.167 -l victor
+ 1031  cd /home/victor/Cloud@Mail.Ru/web/zotova/download/Бельвейс-цвета/Бельвейс-цвета
+ 1032  ls -l
+ 1033  ls -l >color.txt
+ 1034  cd /var/www/html/expense
+ 1035  php artisan serve
+ 1036  git status
+ 1037  git add .
+ 1038  cd /var/www/html/iregon
+ 1039  sudo a2ensite iregion.conf
+ 1040  sudo a2ensite iregon.conf
+ 1041  sudo service apache2 restart
+ 1042  sudo find /var/www/html/iregon -type d -exec chmod 755 {} \;
+ 1043  sudo find /var/www/html/iregon -type f -exec chmod 644 {} \;
+ 1044  sudo chown -R www-data:victor /var/www/html/iregon
+ 1045  sudo chown -R victor:victor /var/www/html/iregon
+ 1046  sudo chown -R www-data:victor /var/www/html/iregon/application/cache
+ 1047  sudo chown -R www-data:victor /var/www/html/iregon/application/logs
+ 1048  cd /var/www/html/expense
+ 1049  php artisan serve
+ 1050  sudo nautilus
+ 1051  yandex-disk start --dir=/home/victor/kram-tvel
+ 1052  find / -name 'xdebug.so' 2> /dev/null
+ 1053  php artisan serve
+ 1054  rxk
+ 1055  rzk
+ 1056  cd /var/www/html/expense
+ 1057  php artisan serve
+ 1058  sudo aptitude install php5-xdebug
+ 1059  sudo apt-get update
+ 1060  sudo apt-get upgrade
+ 1061  git status
+ 1062  git add .
+ 1063  composer update
+ 1064  yandex-disk start --dir=/home/victor/kram-tvel
+ 1065  cd /var/www/html/expense
+ 1066  php artisan serve
+ 1067  cd /var/www/html/expense
+ 1068  php artisan serve
+ 1069  ssh 185.22.60.167 -l victor
+ 1070  php artisan route
+ 1071  history > his.txt
+ 1072  cd /var/www/html/expense
+ 1073  php artisan route
+ 1074  php artisan serve
+ 1075  php artisan clear-compiled
+ 1076  php artisan ide-helper:generate
+ 1077  php artisan optimize
+ 1078  php artisan route
+ 1079  php artisan migrate:make create_plannigs_table
+ 1080  git ststua
+ 1081  git status
+ 1082  php artisan route
+ 1083  git status
+ 1084  yandex-disk start --dir=/home/victor/kram-tvel
+ 1085  cd /var/www/html/expense
+ 1086  php artisan serve
+ 1087  php artisan migrate
+ 1088  php artisan migrate:make create_plannings_table
+ 1089  php artisan migrate
+ 1090  yandex-disk start --dir=/home/victor/kram-tvel
+ 1091  cd /var/www/html/expense
+ 1092  php artisan serve
+ 1093  yandex-disk start --dir=/home/victor/kram-tvel
+ 1094  yandex-disk start --dir=/home/victor/kram-tvel
+ 1095  cd /var/www/html/expense
+ 1096  php artisan serve
+ 1097  cd /var/www/html/expense
+ 1098  php artisan serve
+ 1099  php artisan route
+ 1100  cd /var/www/html/expense
+ 1101  php artisan route
+ 1102  php artisan serve
+ 1103  ssh 185.22.60.167 -l victor
+ 1104  php artisan migrate:make create_plannings_table
+ 1105  php artisan migrate
+ 1106  git status
+ 1107  git add .
+ 1108  git status
+ 1109  cd /var/www/html/expense
+ 1110  php artisan serve
+ 1111  cd /var/www/html/expense
+ 1112  php artisan serve
+ 1113  cd ~/.ssh
+ 1114  ssh-keygen -f key_bitbucket
+ 1115  ssh -T git@bitbucket.org -i ~/.ssh/key_bitbucket
+ 1116  cd /var/www/html
+ 1117  mkdir testxxi
+ 1118  cd testxxi
+ 1119  git init
+ 1120  git remote add origin git@bitbucket.org:victor-pvt/testxxi.git
+ 1121  echo "Victor Pechenikin" >> contributors.txt
+ 1122  git add contributors.txt
+ 1123  git commit -m 'Initial commit with contributors'
+ 1124  git push -u origin master
+ 1125  git remote
+ 1126  git help remote
+ 1127  git remote  -v
+ 1128  git remote add origin git@bitbucket.org:victor-pvt/testxxi.git
+ 1129  git push -u origin --all # pushes up the repo and its refs for the first time
+ 1130  git push -u origin master
+ 1131  git status
+ 1132  git add .
+ 1133  git status
+ 1134  git add .
+ 1135  git status
+ 1136  git add .
+ 1137  git status
+ 1138  git add .
+ 1139  git status
+ 1140  git add .
+ 1141  git status
+ 1142  git reset HEAD
+ 1143  git status
+ 1144  git add .
+ 1145  git status
+ 1146  git add .
+ 1147  git status
+ 1148  compose install
+ 1149  composer install
+ 1150  composer create-project symfony/framework-standard-edition 
+ 1151  sudo get-art install dropbox
+ 1152  sudo apt-get install dropbox
+ 1153  cd ~ && wget -O - "https://www.dropbox.com/download?plat=lnx.x86" | tar xzf -
+ 1154  ~/.dropbox-dist/dropboxd
+ 1155  cd /var/www/html
+ 1156  cd testxxi
+ 1157  php app/console server:run localhost:8080
+ 1158  composer update
+ 1159  php app/console sonata:easy-extends:generate UserBundle -d src
+ 1160  php app/console sonata:easy-extends:generate SonataUserBundle -d src
+ 1161  php app/console assets:install web
+ 1162  php app/console cache:clear
+ 1163  php app/console doctrine:schema:update --force
+ 1164  php app/console fos:user:create --super-admin admin admin@yoursite.dev qwerty
+ 1165  cd /var/www/html
+ 1166  cd testxxi
+ 1167  php app/console server:run localhost:8080
+ 1168  php app/console generate:bundle
+ 1169  git status
+ 1170  git add .
+ 1171  git status
+ 1172  git reset HEAD vendor/*
+ 1173  git status
+ 1174  git reset HEAD web/bundles/*
+ 1175  git status
+ 1176  git add .
+ 1177  git reset HEAD app/cache/*
+ 1178  git reset HEAD app/logs/*
+ 1179  git status
+ 1180  git add .
+ 1181  php app/console generate:doctrine:entity --entity="ChatBundle:Chat"
+ 1182  php app/console doctrine:generate:entities  ChatBundle
+ 1183  php app/console generate:doctrine:crud --entity="ChatBundle:Chat"
+ 1184  php app/console doctrine:schema:update --force
+ 1185  cd /var/www/html
+ 1186  cd testxxi
+ 1187  php app/console server:run localhost:8080
+ 1188  php app/console router:debug 
+ 1189  cd /var/www/html
+ 1190  cd testxxi
+ 1191  php app/console server:run localhost:8080
+ 1192  cd /var/www/html
+ 1193  cd testxxi
+ 1194  php app/console server:run localhost:8080
+ 1195  git logs
+ 1196  git log
+ 1197  git checkout 1c151961
+ 1198  git status
+ 1199  git add . 
+ 1200  git status
+ 1201  git log
+ 1202  git status
+ 1203  git add .
+ 1204  git status
+ 1205  cd /var/www/html
+ 1206  cd testxxi
+ 1207  git log
+ 1208  git status
+ 1209  git init
+ 1210  git log
+ 1211  git status
+ 1212  git add .
+ 1213  git status
+ 1214  git add .
+ 1215  git reset HEAD web/bundle/*
+ 1216  git --help
+ 1217  git reset  web/bundle/*
+ 1218  git reset HEAD --web/bundle/*
+ 1219  git reset --web/bundle/*
+ 1220  git checkout --web/bundle/*
+ 1221  git checkout --/web/bundle/*
+ 1222  git checkout web/bundle/*
+ 1223  git checkout -- web/bundle/*
+ 1224  cd /var/www/html
+ 1225  cd testxxi
+ 1226  php app/console server:run localhost:8080
+ 1227  git checkout -- web/bundles/*
+ 1228  git status
+ 1229  git checkout -- web/bundles/*
+ 1230  git status
+ 1231  git reset head
+ 1232  git reset HEAD
+ 1233  git status
+ 1234  composer update
+ 1235  yandex-disk start --dir=/home/victor/kram-tvel
+ 1236  cd /var/www/html
+ 1237  cd testxxi
+ 1238  php app/console server:run localhost:8080
+ 1239  git status
+ 1240  git add .
+ 1241  php app/console generate:bundle
+ 1242  php app/console generate:doctrine:entity --entity="ChatBundle:Chat"
+ 1243  php app/console generate:bundle
+ 1244  php app/console generate:doctrine:entity --entity="UserBundle:User"
+ 1245  php app/console doctrine:generate:entities    ChatBundle
+ 1246  php app/console doctrine:generate:entities    UserBundle
+ 1247  php app/console generate:doctrine:crud --entity="ChatBundle:Chat"
+ 1248  php app/console route
+ 1249  php app/console router:debug
+ 1250  php app/console doctrine:schema:update --force
+ 1251  php app/console doctrine:schema:update --dump-sql
+ 1252  php app/console doctrine:schema:update --force
+ 1253  composer require friendsofsymfony/user-bundle "~2.0@dev"
+ 1254  wget -P /home/victor/tvel/ www.mail.ru
+ 1255  wget -P /home/victor/tvel/ http://htmlweb.ru/other/wget.php
+ 1256  wget -P /home/victor/tvel/ http://ruseller.com/lessons.php?id=1187&rub=37
+ 1257  ssh 185.22.60.167 -l victor
+ 1258  yandex-disk start --dir=/home/victor/kram-tvel
+ 1259  cd /var/www/html/testfastcurrency
+ 1260  git init
+ 1261  git remote add origin git@bitbucket.org:victor-pvt/testfastcurrency.git
+ 1262  git 
+ 1263  git help remote
+ 1264  git remote
+ 1265  git remote -v
+ 1266  echo "Victor Pechenikin" >> contributors.txt
+ 1267  git add contributors.txt
+ 1268  git commit -m 'Initial commit with contributors'
+ 1269  git push -u origin master
+ 1270  cd ..
+ 1271  cd testxxi
+ 1272  git status
+ 1273  git push -u origin master
+ 1274  git remote add origin git@bitbucket.org:victor-pvt/testxxi.git
+ 1275  git remote -v
+ 1276  git push -u origin --all
+ 1277  git push -u origin --tags # pushes up any tags
+ 1278  cd ..
+ 1279  cd testfastcurrency
+ 1280  composer create-project symfony/framework-standard-edition
+ 1281  composer update
+ 1282  git status
+ 1283  git add .
+ 1284  git remote
+ 1285  git remote -V
+ 1286  git remote -v
+ 1287  git statsus
+ 1288  git status
+ 1289  git add .
+ 1290  yandex-disk start --dir=/home/victor/kram-tvel
+ 1291  sudo nautilus
+ 1292  php app/console generate:bundle
+ 1293  php app/console generate:doctrine:entity --entity="CurrencyBundle:Currency"
+ 1294  cur
+ 1295  xxi
+ 1296  sxxi
+ 1297  scur
+ 1298  --entity="CurrencyBundle:Currency"
+ 1299  cur
+ 1300  xxi
+ 1301  sxxi
+ 1302  git status
+ 1303  git add .
+ 1304  git status
+ 1305  php app/console doctrine:generate:entities    CurrencyBundle
+ 1306  php app/console generate:doctrine:crud --entity="CurrencyBundle:Currency"
+ 1307  php app/console generate:doctrine:entity --entity="CurrencyBundle:Cache"
+ 1308  php app/console doctrine:schema:update --force
+ 1309  xxi
+ 1310  sxxi
+ 1311  cur
+ 1312  scur
+ 1313  ncyBundle:Cache"
+ 1314  php app/console doctrine:schema:update --force
+ 1315  xxi
+ 1316  sxxi
+ 1317  yandex-disk start --dir=/home/victor/kram-tvel
+ 1318  sudo aptitude install gtk-recordmydesktop
+ 1319  ss
+ 1320  cur
+ 1321  scur
+ 1322  php app/console doctrine:schema:update --force
+ 1323  php app/console router:debug 
+ 1324  php app/console doctrine:generate:entities  CurrencyBundle
+ 1325  git status
+ 1326  git add .
+ 1327  composer update
+ 1328  sudo composer self-update
+ 1329  composer update
+ 1330  php app/console doctrine:fixtures:load
+ 1331  php app/console doctrine:fixtures:load "CurrencyBundle"
+ 1332  php app/console doctrine:migrations:migrate
+ 1333  php app/console doctrine:fixtures:load
+ 1334  php app/console generate:doctrine:entity --entity="CurrencyBundle:Index"
+ 1335  php app/console generate:doctrine:entity --entity="CurrencyBundle:CurrencyIndex"
+ 1336  php app/console doctrine:generate:entities   CurrencyBundle
+ 1337  php app/console doctrine:schema:update --force
+ 1338  php app/console router:debug 
+ 1339  yandex-disk start --dir=/home/victor/kram-tvel
+ 1340  yd
+ 1341  cd /var/www/html/expense
+ 1342  php artisan
+ 1343  php artisan -h server
+ 1344  php artisan -h serve
+ 1345  php artisan serve serve --host="localhost" --port="8000"
+ 1346  php artisan serve --host="localhost" --port="8000"
+ 1347  git status
+ 1348  git remote -v
+ 1349  git remote add origin git@bitbucket.org:victor-pvt/expense.git
+ 1350  git remote -v
+ 1351  git push -u origin --all 
+ 1352  git push -u origin --tags
+ 1353  git status
+ 1354  git add .
+ 1355  git status
+ 1356  git add .
+ 1357  git status
+ 1358  checkout newData
+ 1359  git checkout newData
+ 1360  git log
+ 1361  git status
+ 1362  git reset HEAD *
+ 1363  git status
+ 1364  git rm  src/Test/CurrencyBundle/Entity/Cache.php~
+ 1365  git status
+ 1366  php app/console generate:bundle
+ 1367  php app/console generate:doctrine:entity --entity="FileCacheBundle:CurrencyList"
+ 1368  php app/console generate:doctrine:entity --entity="FileCacheBundle:CurrencyIndex"
+ 1369  php app/console generate:doctrine:entity --entity="FileCacheBundle:CurrencyCache"
+ 1370  php app/console doctrine:generate:entities  FileCacheBundle
+ 1371  php app/console doctrine:schema:update --force
+ 1372  php app/console doctrine:fixtures:load
+ 1373  php app/console doctrine:schema:update --force
+ 1374  php app/console doctrine:fixtures:load
+ 1375  php app/console doctrine:generate:entities   FileCacheBundle
+ 1376  php app/console doctrine:schema:update --force
+ 1377  php app/console doctrine:generate:entities   FileCacheBundle
+ 1378  php app/console doctrine:fixtures:load
+ 1379  php app/console doctrine:generate:entities   FileCacheBundle
+ 1380  php app/console doctrine:schema:update --force
+ 1381  php app/console doctrine:fixtures:load
+ 1382  php app/console doctrine:generate:entities   FileCacheBundle
+ 1383  php app/console doctrine:schema:update --force
+ 1384  php app/console doctrine:fixtures:load
+ 1385  php app/console generate:doctrine:crud --entity="FileCacheBundle:CurrencyCache"
+ 1386  php app/console generate:doctrine:crud --entity="FileCacheBundle:CurrencyList"
+ 1387  php app/console generate:doctrine:crud --entity="FileCacheBundle:CurrencyIndex"
+ 1388  git status
+ 1389  git add .
+ 1390  php app/console router:debug 
+ 1391  sudo apt-get clean
+ 1392  sudo apt-get install synaptic
+ 1393  sudo synaptic
+ 1394  php app/console doctrine:generate:entities   FileCacheBundle
+ 1395  php app/console doctrine:schema:update --force
+ 1396  php app/console generate:doctrine:entity --entity="FileCacheBundle:CurrencyListCache"
+ 1397  php app/console doctrine:generate:entities   FileCacheBundle
+ 1398  php app/console doctrine:schema:update --force
+ 1399  sudo service apache2 restart
+ 1400  sudo nautilus
+ 1401  composer require friendsofsymfony/rest-bundle
+ 1402  git status
+ 1403  git add .
+ 1404  composer require friendsofsymfony/rest-bundle
+ 1405  composer require "jms/serializer-bundle" "@dev"
+ 1406  composer require "nelmio/api-doc-bundle" "@dev"
+ 1407  php app/console router:debug 
+ 1408  php app/console doctrine:generate:entities FileCacheBundle
+ 1409  php app/console doctrine:fixtures:load
+ 1410  php app/console doctrine:schema:update --force
+ 1411  php app/console doctrine:fixtures:load
+ 1412  php app/console doctrine:schema:update --force
+ 1413  php app/console doctrine:fixtures:load
+ 1414  php app/console doctrine:schema:update --force
+ 1415  php app/console doctrine:fixtures:load
+ 1416  git status
+ 1417  git add .
+ 1418  php app/console generate:doctrine:crud --entity="FileCacheBundle:CurrencyCache"
+ 1419  git add .
+ 1420  php app/console router:debug 
+ 1421  php app/console doctrine:schema:update --force
+ 1422  git add .
+ 1423  php app/console router:debug 
+ 1424  php app/console doctrine:schema:update --force
+ 1425  php app/console doctrine:generate:entities   FileCacheBundle
+ 1426  git add .
+ 1427  cd /var/www/html/fast
+ 1428  composer global require "laravel/installer=~1.1"
+ 1429  cd ~/.composer/vendor/bin
+ 1430  laravel
+ 1431  ./laravel
+ 1432  cd /var/www/html/fast
+ 1433  laravel
+ 1434  /home/victor/.composer/vendor/laravel/installer/laravel
+ 1435  /home/victor/.composer/vendor/laravel/installer/laravel new
+ 1436  /home/victor/.composer/vendor/laravel/installer/laravel new fast
+ 1437  php artisan -V
+ 1438  composer create-project laravel/laravel /var/www/html/fast dev-develop
+ 1439  git status
+ 1440  git init
+ 1441  git status
+ 1442  git remote add origin git@bitbucket.org:victor-pvt/fastlaravel.git
+ 1443  git push -u origin --all
+ 1444  git push -u origin --tags
+ 1445  git remote
+ 1446  git remote -V
+ 1447  git remote -v
+ 1448  php artisan -V
+ 1449  php artisan serve
+ 1450  composer update
+ 1451  php artisan serve
+ 1452  php artisan 
+ 1453  sudo nautilus
+ 1454  sudo a2ensite fast.conf
+ 1455  sudo service apache2 restart
+ 1456  php artisan 
+ 1457  php artisan  cache:clear 
+ 1458  php artisan  migrate:status 
+ 1459  ls -la
+ 1460  cd storage
+ 1461  ls -la
+ 1462  cd ..
+ 1463  cd public
+ 1464  cd ..
+ 1465  cd public
+ 1466  ls -la
+ 1467  php artisan  migrate:status 
+ 1468  cd ..
+ 1469  php artisan  migrate:status 
+ 1470  php artisan  migrate
+ 1471  php artisan  migrate:install
+ 1472  php artisan migrate:make create_users_table
+ 1473  php artisan 
+ 1474  php artisan make:migration create_users_table
+ 1475  git status
+ 1476  git add .
+ 1477  composer update
+ 1478  git add .
+ 1479  php artisan
+ 1480  php artisan env
+ 1481  php artisan migrate
+ 1482  php artisan migrate:install
+ 1483  git status
+ 1484  git add. 
+ 1485  git add . 
+ 1486  git status
+ 1487  git add .
+ 1488  git status
+ 1489  git add .
+ 1490  php artisan
+ 1491  php artisan migrate:make  
+ 1492  php artisan migrate
+ 1493  php artisan migrate:make create_CurrencyLists_table
+ 1494  php artisan migrate:make create_CurrencyListCachies_table
+ 1495  php artisan migrate:make create_CurrencyCachies_table
+ 1496  php artisan migrate
+ 1497  php artisan db:seed
+ 1498  php app/console router:debug 
+ 1499  php app/console router:debug  pvt_currency_filecache_currencylist_deletecurrency
+ 1500  php app/console doctrine:schema:update --force
+ 1501  git add .
+ 1502  php app/console router:debug 
+ 1503  git add .
+ 1504  ssh 185.22.60.167 -l victor
+ 1505  ls -la
+ 1506  ssh 185.22.60.167 -l victor
+ 1507  ssh 185.22.60.167 -l victor
+ 1508  wget -qO- https://toolbelt.heroku.com/install-ubuntu.sh | sh 
+ 1509  heroku login
+ 1510  cd /var/www/html
+ 1511  git clone https://github.com/heroku/php-getting-started.git
+ 1512  php app/console generate:doctrine:crud --entity="CurrencyBundle:CurrencyIndex"
+ 1513  php app/console router:debug 
+ 1514  php app/console router:debug currency_delete_delete
+ 1515  git add .
+ 1516  cd /home/victor/tvel/kram/Проектные документы/материалы заказчика/инструкции/МСЗ/ДИ
+ 1517  cd "/home/victor/tvel/kram/Проектные документы/материалы заказчика/инструкции/МСЗ/ДИ"
+ 1518  ls -la
+ 1519  ls -la >ls.tx
+ 1520  php app/console api:doc:dump --format=html > api.html
+ 1521  curl
+ 1522  curl --help
+ 1523  curl http://curr/app_dev.php/api/currency/980
+ 1524  curl http://curr/app_dev.php/api/currency/980 > curl.txt
+ 1525  curl http://curr/app_dev.php/api/currency > curl.txt
+ 1526  curl --help
+ 1527  curl -i http://curr/app_dev.php/api/currency > curl.txt
+ 1528  curl -i -X GET http://curr/app_dev.php/api/currency > curl.txt
+ 1529  curl -i -X DELETE http://curr/app_dev.php/api/currency > curl.txt
+ 1530  curl -i -X DELETE http://curr/app_dev.php/api/currency/124 > curl.txt
+ 1531  curl -i -X DELETE http://curr/app_dev.php/api/currency/840 > curl.txt
+ 1532  curl -i -X POST http://curr/app_dev.php/api/currency > curl.txt
+ 1533  curl -i -GET POST http://curr/app_dev.php/api/currency/980 > curl.txt
+ 1534  sudo synaptic
+ 1535  sudo apt-get autoremove
+ 1536  git add .
+ 1537  git status
+ 1538  git add .
+ 1539  git add --ignore-removal
+ 1540  history >his.txt
+ 1541  yandex-disk start --dir=/home/victor/kram-tvel
+ 1542  zf.sh
+ 1543  zf.sh create project /var/www/html/zf1
+ 1544  exp
+ 1545  sexp
+ 1546  /var/www/html/zf1/library ln -s  /home/victor/down/zf1-master/library/Zend
+ 1547  cd /var/www/html/zf1/
+ 1548  cd library; ln -s  /home/victor/down/zf1-master/library/Zend
+ 1549  git config --list
+ 1550  cur
+ 1551  scur
+ 1552  sudo nautilus
+ 1553  sudo a2ensite checkweb.conf
+ 1554  sudo service apache2 restart
+ 1555  exp
+ 1556  sexp
+ 1557  cur
+ 1558  scur
+ 1559  php artisan migrate
+ 1560  exp
+ 1561  sexp
+ 1562  php artisan route
+ 1563  yad
+ 1564  ya
+ 1565  yd
+ 1566  sudo nautilus
+ 1567  sudo a2ensite zf1.conf
+ 1568  sudo service apache2 restart
+ 1569  yd
+ 1570  sudo gem install ruby-msg
+ 1571  cd "/home/victor/tvel/kram/Проектные документы/материалы заказчика/инструкции/ЧМЗ"
+ 1572  mapitool -i Должностные.msg
+ 1573  cd "/home/victor/PhpstormProjects/laravels/habr"
+ 1574  php artisan serve --port=8009
+ 1575  cd /home/victor/PhpstormProjects/laravels/laravel-starter/app/config/local
+ 1576  php artisan route
+ 1577  cd /home/victor/PhpstormProjects/laravels/laravel-starter
+ 1578  php artisan route
+ 1579  cd /home/victor/PhpstormProjects/laravels/MicroBlog_Laravel4-master
+ 1580  php artisan serve --port=8090
+ 1581  cd "/home/victor/PhpstormProjects/laravels/laravel-starter"
+ 1582  php artisan serve --port=8008
+ 1583  exp
+ 1584  sexp
+ 1585  php artisan route
+ 1586  cd /home/victor/PhpstormProjects/laravels/laravel-ajax-example-master
+ 1587  php artisan serve --port=8090
+ 1588  cd /home/victor/PhpstormProjects/laravels/habrahabr-master
+ 1589  php artisan migrate:install
+ 1590  php artisan migrate --seed
+ 1591  history >his
+ 1592  cd "/home/victor/tvel/kram/Проектные документы/материалы заказчика/141215"
+ 1593  mapitool -i "чмз 1.msg"
+ 1594  sudo naurilus
+ 1595  sudo nautilus
+ 1596  sudo a2ensite vesta_landing.conf
+ 1597  sudo service apache2 restart
+ 1598  cd "/home/victor/PhpstormProjects/laravels/habrahabr-master"
+ 1599  php artisan serve --port=8080
+ 1600  cd /var/www/html
+ 1601  git clone ssh://gms_hansa@euromail.happybit.ru/var/www/vhosts/romanus.fastit.net/httpdocs/euromailnew
+ 1602  sudo nautilus
+ 1603  cd /var/www/html/euromailnew
+ 1604  sudo chown -R www-data:victor /var/www/html/euromailnew/web
+ 1605  sudo chown -R www-data:victor /var/www/html/euromailnew/app/cache
+ 1606  sudo chown -R www-data:victor /var/www/html/euromailnew/app/logs
+ 1607  php app/console cache:clear
+ 1608  sudo a2ensite euromailnew.conf
+ 1609  sudo service apache2 restart
+ 1610  sudo apt-get install postgresql
+ 1611  sudo apt-get install pgadmin3
+ 1612  sudo apt-get install python-psycopg2
+ 1613  sudo su postgres -c psql postgres
+ 1614  sudo passwd postgres
+ 1615  sudo /etc/init.d/postgresql restart
+ 1616  sudo apt-get install php5-pgsql phppgadmin wwwconfig-common
+ 1617  ln -s /etc/phppgadmin/apache.conf /etc/apache2/conf.d/phppgadmin
+ 1618  sudo service apache2 restart
+ 1619  sudo -u postgres createuser pgadmin
+ 1620  su - postgres
+ 1621  sudo nautilus
+ 1622  sudo service apache2 restart
+ 1623  php app/console doctrine:schema:update --force
+ 1624  yd
+ 1625  php app/console router:debug 
+ 1626  php app/console router:debug  order  
+ 1627  yd
+ 1628  php app/console router:debug  manager_order_shoppingprice_update
+ 1629  yd
+ 1630  git status
+ 1631  git add .
+ 1632  git status
+ 1633  git add .
+ 1634  git status
+ 1635  cd /var/www/html/euromailnew
+ 1636  git push
+ 1637  cd /home/victor/down/af
+ 1638  sudo cp -r usr/* /usr
+ 1639  cd /home/victor/down/af
+ 1640  ./configure
+ 1641  make
+ 1642  make install
+ 1643  rpm -Uvh install_flash_player_11_linux.i386.tar.gz
+ 1644  rpm -Uvh flash-plugin-11.2.202.425-release.i386.rpm
+ 1645  sudo apt-get flash-plugin
+ 1646  sudo nautilus
+ 1647  yd
+ 1648  wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+ 1649  sudo sh -c 'echo "deb http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list'
+ 1650  sudo apt-get update
+ 1651  sudo apt-get install google-chrome-stable 
+ 1652  exp
+ 1653  cur
+ 1654  scur
+ 1655  sudo a2ensite vesta.conf
+ 1656  sudo service apache2 restart
+ 1657  sudo nautilus
+ 1658  sudo chown -R www-data:victor /var/www/html/vesta
+ 1659  sudo chown -R victor:victor /var/www/html/vesta
+ 1660  sudo chown -R www-data:victor /var/www/html/newjoomla/cache
+ 1661  sudo chown -R www-data:victor /var/www/html/newjoomla/logs
+ 1662  sudo chown -R www-data:victor /var/www/html/newjoomla/tmp
+ 1663  sudo chmod -R 777  /var/www/html/newjoomla/logs
+ 1664  sudo chmod -R 777  /var/www/html/newjoomla/cache
+ 1665  sudo chmod -R 777  /var/www/html/vesta/templates
+ 1666  sudo chmod -R 777 /var/www/html/vesta/tmp 
+ 1667  sudo chmod -R 777 /var/www/html/vesta/logs
+ 1668   a2ensite vesta.conf
+ 1669  sudo service apache2 restart
+ 1670  sudo nautilus
+ 1671  git init 
+ 1672  git add .
+ 1673  git status
+ 1674  git rm --cached 
+ 1675  victor@victor-C16A:/var/www/html/vesta$ git rm --cached configuration.php
+ 1676  victor@victor-C16A:/var/www/html/vesta$ git rm --cached /configuration.php
+ 1677  victor@victor-C16A:/var/www/html/vesta$ git rm --cached ./configuration.php
+ 1678  victor@victor-C16A:/var/www/html/vesta$ git rm --cached /cache/
+ 1679  victor@victor-C16A:/var/www/html/vesta$ git rm --cached cache/
+ 1680  victor@victor-C16A:/var/www/html/vesta$ git rm 
+ 1681  victor@victor-C16A:/var/www/html/vesta$ git rm ?
+ 1682  git reset
+ 1683  git status
+ 1684  git add .
+ 1685  git commit
+ 1686  git add .
+ 1687  git commit
+ 1688  git status
+ 1689  git add .
+ 1690  git status
+ 1691  git commit
+ 1692  git add .
+ 1693  s
+ 1694  git add .
+ 1695  git status
+ 1696  git commit
+ 1697  cd /var/www/html/euromailnew
+ 1698  git push
+ 1699  yd
+ 1700  git add .
+ 1701  git commit 
+ 1702  git status
+ 1703  git add .
+ 1704  git commit
+ 1705  git add .
+ 1706  git commit
+ 1707  php app/console router:debug 
+ 1708  php app/console router:debug > debug.txt
+ 1709  php app/console router:debug manager_index
+ 1710  php app/console router:debug manager_manage
+ 1711  php app/console router:debug manager_will_be_redeemed
+ 1712  php app/console doctrine:schema:create --dump-sql 
+ 1713  php app/console doctrine:schema:create --dump-sql > euro.sql
+ 1714  php app/console router:debug manager_order_manage_update 
+ 1715  cd /var/www/html/euromailnew
+ 1716  git push
+ 1717  ssh 185.22.60.167 -l victor
+ 1718  sudo add-apt-repository ppa:webupd8team/nemo
+ 1719  sudo apt-get update
+ 1720  sudo apt-get install nemo nemo-fileroller
+ 1721  xdg-mime default nemo.desktop inode/directory application/x-gnome-saved-search
+ 1722  sudo apt-get install dconf-tools
+ 1723  gsettings set org.gnome.desktop.background show-desktop-icons false
+ 1724  cd /home/victor/down/PhpStorm-139.732
+ 1725  cd bin
+ 1726  ./phpstorm.sh
+ 1727  exp
+ 1728  sexp
+ 1729  exp
+ 1730  memo
+ 1731  nemo
+ 1732  scur
+ 1733  sexp
+ 1734  git status
+ 1735  cd /var/www/html/land2
+ 1736  git init
+ 1737  sexp
+ 1738  ssh 185.22.60.167 -l victor
+ 1739  composer install
+ 1740  sudo /usr/local/bin/composer self-update
+ 1741  composer install
+ 1742  composer update
+ 1743  git status
+ 1744  git add .
+ 1745  git status
+ 1746  git rm --cached public/uploads/*
+ 1747  git rm --cached public/*
+ 1748  git rm --cached *
+ 1749  git status
+ 1750  git rm --cached /*
+ 1751  git rm --cached .
+ 1752  git status
+ 1753  git add .
+ 1754  composer update
+ 1755  php artisan
+ 1756  git add .
+ 1757  git status
+ 1758  git log
+ 1759  git add .
+ 1760  git log
+ 1761  cd /var/www/html/land2
+ 1762  git rm
+ 1763  git rm -r *.
+ 1764  git rm -r *.*
+ 1765  git rm -r 
+ 1766  git status
+ 1767  git rm -r 
+ 1768  git rm -r app/
+ 1769  git rm -r -f app/
+ 1770  git rm -r -f public/
+ 1771  composer create-project laravel/laravel onepage --prefer-dist
+ 1772  cd ..
+ 1773  composer create-project laravel/laravel onepage --prefer-dist
+ 1774  cd onepage
+ 1775  git init
+ 1776  sop
+ 1777  composer update
+ 1778  composer require barryvdh/laravel-ide-helper
+ 1779  composer update
+ 1780  php artisan config:publish toddish/verify
+ 1781  php artisan ide-helper:generate
+ 1782  php artisan clear-compiled
+ 1783  php artisan ide-helper:generate
+ 1784  git log
+ 1785  php artisan ide-helper:generate
+ 1786  php artisan config:publish toddish/verify
+ 1787  php artisan migrate --package="toddish/verify"
+ 1788  php artisan db:seed --class=VerifyUserSeeder
+ 1789  echo 'deb http://repo.acestream.org/ubuntu/ raring main' | sudo tee /etc/apt/sources.list.d/acestream.list
+ 1790  sudo wget -O - http://repo.acestream.org/keys/acestream.public.key | sudo apt-key add -
+ 1791  sudo apt-get update
+ 1792  sudo apt-get upgrade
+ 1793  sudo apt-get update
+ 1794  sudo apt-get upgrade
+ 1795  cd ~/Загрузки
+ 1796  sudo dpkg -i acestream.deb
+ 1797  sudo apt-get install python-apsw
+ 1798  sudo apt-get install python-m2crypto
+ 1799  apt-get -f install
+ 1800  sudo apt-get -f install
+ 1801  echo 'deb http://repo.acestream.org/ubuntu/ trusty main' | sudo tee /etc/apt/sources.list.d/acestream.list
+ 1802  wget -q -O - http://repo.acestream.org/keys/acestream.public.key | sudo apt-key add -
+ 1803  sudo apt-get update
+ 1804  sudo apt-get install acestream-full
+ 1805  cd /var/www/html/euromailnew
+ 1806  la
+ 1807  l
+ 1808  ls
+ 1809  la
+ 1810  ls -a
+ 1811  ls -l
+ 1812  ll
+ 1813  cd app
+ 1814  ll
+ 1815  cd logs
+ 1816  ll
+ 1817  cd..
+ 1818  cd ..
+ 1819  php app/console cache:clear
+ 1820  sexp
+ 1821  php app/console router:debug 
+ 1822  php app/console router:debug manager_will_be_redeemed_list   
+ 1823  git status
+ 1824  git add .
+ 1825  git status
+ 1826  cd /home/victor/wine app back/tar
+ 1827  cd "/home/victor/wine app back/tar"
+ 1828  ./tools/wineinstall
+ 1829  sudo apt-get install
+ 1830  cd ..
+ 1831  cd //
+ 1832  cd ..
+ 1833  sudo art-get install wine
+ 1834  sudo apt-get install wine
+ 1835  sudo apt-get uninstall wine
+ 1836  sudo apt-get wine remove
+ 1837  sudo apt-get remove wine
+ 1838  sudo apt-get install wine
+ 1839  wine
+ 1840  wine --version
+ 1841  sudo apt-get remove win
+ 1842  cd ..
+ 1843  wine --version
+ 1844  sudo apt-get purge wine
+ 1845  sudo apt-get autoremove
+ 1846  sudo apt-get clean
+ 1847  sudo apt-get install -f
+ 1848  rm -r ~/.wine
+ 1849  rm -rf ~/.local/share/applications/wine*
+ 1850  sudo apt-get remove wine wine1.2 wine1.2-gecko
+ 1851  wine --version
+ 1852  sudo apt-get autoremove wine-1.7.33
+ 1853  sudo apt-get autoremove wine 1.7.33
+ 1854  yd
+ 1855  winecfg
+ 1856  export WINEPREFIX=$HOME/wine32
+ 1857  export WINEARCH=win32
+ 1858  sudo nemo
+ 1859  cd /home/victor/.wine/drive_c/windows/system32
+ 1860  ll
+ 1861  rm d3d8.dll d3d9.dll ddraw.dll dsound.dll dsound.vxd quartz.dll dxdiagn.dll 
+ 1862  cd /home/victor/Загрузки
+ 1863  wine directx_Jun2010_redist.exe
+ 1864  winecfg 
+ 1865  wine dxdiag.exe 
+ 1866  find ~ -name '*.desktop'
+ 1867  scur
+ 1868  cd /var/www/html/onepage
+ 1869  php artisan server
+ 1870  php artisan serve
+ 1871  php artisan routes
+ 1872  sop
+ 1873  php artisan db:seed --class=UserRolesSeeder
+ 1874  php artisan db:seed --class='UserRolesSeeder'
+ 1875  php artisan db:seed 
+ 1876  php artisan db:seed --class=VerifyUserSeeder
+ 1877  php artisan db:seed --class=UserSeeder
+ 1878  php artisan config
+ 1879  php artisan config:publish
+ 1880  php artisan config:publish app
+ 1881  php artisan db:seed --class=UserSeeder
+ 1882  php artisan db:seed --class=UserRolesSeeder
+ 1883  php artisan db:seed --class=UserManagerSeeder
+ 1884  php artisan db:seed --class=UserDriverSeeder
+ 1885  php artisan db:seed --class=UserManagerSeeder
+ 1886  php artisan routes
+ 1887  git status
+ 1888  git rm --cached .idea/workspace.xml
+ 1889  git status
+ 1890  git rm --cached .idea/*
+ 1891  git rm --cached -r .idea/*
+ 1892  git rm --cached .idea/encodings.xml
+ 1893  git status
+ 1894  git add .
+ 1895  git log
+ 1896  git branch
+ 1897  git diff bb003633c384b4b4ac652a897e42186d3972ef54 a27326e098186806498052aae88918ce9dbc2dd3
+ 1898  git diff bb003633c384b4b4ac652a897e42186d3972ef54 a27326e098186806498052aae88918ce9dbc2dd3 >d
+ 1899  serManagerSeeder
+ 1900  php artisan db:seed --class=UserDriverSeeder
+ 1901  php artisan db:seed --class=UserManagerSeeder
+ 1902  php artisan routes
+ 1903  sudo a2ensite landing.conf
+ 1904  sudo service apache2 restart
+ 1905  composer update
+ 1906  php artisan config:publish artdarek/oauth-4-laravel
+ 1907  sudo a2dissite artsoft.local
+ 1908  sudo a2ensite ocpvf.conf
+ 1909  sudo service apache2 restart
+ 1910  sop
+ 1911  git status
+ 1912  git init
+ 1913  git add .
+ 1914  git log
+ 1915  git add .
+ 1916  git statsu
+ 1917  git status
+ 1918  git commit
+ 1919  sop
+ 1920  scur
+ 1921  php artisan migrate
+ 1922  php artisan migrate help
+ 1923  php artisan 
+ 1924  app/console cron:list
+ 1925  composer update
+ 1926  php app/console generate:bundle
+ 1927  php app/console generate:doctrine:entity --entity="PVTCurrencyBundle:Currency"
+ 1928  php app/console generate:doctrine:crud --entity="PVTCurrencyBundle:Currency"
+ 1929  git status
+ 1930  git add .
+ 1931  git add --ignore-removal 
+ 1932  git add .
+ 1933  git status
+ 1934  git commit
+ 1935  git log
+ 1936  git branch
+ 1937  git add .
+ 1938  git status
+ 1939  git rm web/ajax.php
+ 1940  git status
+ 1941  git commit 
+ 1942  git branch
+ 1943  git add .
+ 1944  git status
+ 1945  git commit
+ 1946  git status
+ 1947  sudo apt-get install memcached
+ 1948  sudo /etc/init.d/memcached restart
+ 1949  netstat -tap | grep memcached
+ 1950  sudo netstat -tap | grep memcached
+ 1951  sudo  apt-get install php5-dev libmemcache-dev
+ 1952  sudo /etc/init.d/apache2 restart
+ 1953  scur
+ 1954  php app/console doctrine:schema:update --force
+ 1955  php app/console doctrine:generate:entities PVTCurrencyBundle
+ 1956  php app/console doctrine:fixtures:load PVTCurrencyBundle
+ 1957  php app/console doctrine:fixtures:load --fixtures="PVTCurrencyBundle"
+ 1958  php app/console doctrine:fixtures:load 
+ 1959  php app/console router:debug 
+ 1960  php app/console router:debug home
+ 1961  php app/console router:debug currency
+ 1962  php app/console router:debug 
+ 1963  sudo add-apt-repository ppa:mc3man/trusty-media
+ 1964  sudo apt-get update
+ 1965  sudo apt-get install ffmpeg gstreamer0.10-ffmpeg
+ 1966  sudo apt-get install converseen
+ 1967  yd
+ 1968  sudo apt-get install xpdf
+ 1969  whereis pdfimages
+ 1970  cd "/home/victor/Видео/Безымянная папка"
+ 1971  pdfimages -f 3 -l 9 -j "МСЗ_Программа совершенствования СХ.pdf" ness
+ 1972  cd "/home/victor/Видео/jpg"
+ 1973  pdfimages -f 1 -l 19 -j "МСЗ_Программа совершенствования СХ.pdf" ness
+ 1974  sudo aptitude install gparted
+ 1975  sudo apt-get install php5-memcached
+ 1976  sudo /etc/init.d/memcached restart
+ 1977  sudo add-apt-repository ppa:paul-climbing/ppa
+ 1978  sudo apt-get update
+ 1979  sudo apt-get install winff
+ 1980  memo
+ 1981  nemo
+ 1982  scur
+ 1983  composer update
+ 1984  php app/console assets:install web --symlink
+ 1985  php app/console doctrine:schema:update --force
+ 1986  git status
+ 1987  git add .
+ 1988  git commit
+ 1989  php app/console router:debug
+ 1990  git add .
+ 1991  ssh 185.22.60.167 -l victor
+ 1992  cd /var/www/html 
+ 1993  mkdir euro
+ 1994  cd euro
+ 1995  git clone ssh://gms_hansa@euromail.happybit.ru/var/www/vhosts/romanus.fastit.net/httpdocs/euromailnew
+ 1996  sudo a2ensite euro.conf
+ 1997  sudo service apache2 restart
+ 1998  history>his.txt

@@ -1,0 +1,14 @@
+{
+  "name": "Pvt",
+  "autoload": {
+    "psr-4": {
+      "PVT\\": "app/"
+    }
+  },
+  "require": {
+    "php": ">=5.3.0",
+    "erusev/parsedown": "1.5.*"
+  },
+  "scripts": {
+  }
+}
